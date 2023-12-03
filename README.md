@@ -8,6 +8,20 @@ It also uses the experimental Partial Prerendering feature available in Next.js 
 
 > ⚠️ Please note that PPR is an experimental technology that is not recommended for production. You may run into some DX issues, especially on larger code bases, and known issues around performance of client-side navigations have not yet been addressed.
 
+### ✨ [Demo](https://partial-perrendering.productsway.com/)
+
+## Install
+
+```sh
+pnpm install
+```
+
+## Usage
+
+```sh
+pnpm dev
+```
+
 ## How it works
 
 The index route `/` uses Partial Prerendering through:
