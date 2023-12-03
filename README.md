@@ -39,9 +39,10 @@ experimental: {
 ## References
 
 - [Learn Next.js: Partial Prerendering](https://nextjs.org/learn/dashboard-app/partial-prerendering)
-- [Learn Next.js: Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 - [Building towards a new default rendering model for web applications](https://vercel.com/blog/partial-prerendering-with-next-js-creating-a-new-default-rendering-model)
 - [Difference between partial rendering(PPR) and the current streaming suspense?](https://github.com/vercel/next.js/discussions/58322)
+- [Learn NextJs 14 App](https://github.com/jellydn/learn-nextjs14-dashboard)
+- [Learn Next.js: Streaming](https://nextjs.org/learn/dashboard-app/streaming)
 
 ## Show your support
 
