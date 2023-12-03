@@ -2,6 +2,8 @@
 
 This is a demo of [Next.js](https://nextjs.org) using [Partial Prerendering](https://nextjs.org/docs/app/api-reference/next-config-js/partial-prerendering).
 
+[![IT Man - NextJS 14 - A deep dive into Partial Prerendering [Vietnamese]](https://i.ytimg.com/vi/pqRDCegdNVw/hqdefault.jpg)](https://www.youtube.com/watch?v=pqRDCegdNVw)
+
 This template uses the new Next.js [App Router](https://nextjs.org/docs/app). This includes support for enhanced layouts, colocation of components, tests, and styles, component-level data fetching, and more.
 
 It also uses the experimental Partial Prerendering feature available in Next.js 14. Partial Prerendering combines ultra-quick static edge delivery with fully dynamic capabilities and we believe it has the potential to [become the default rendering model for web applications](https://vercel.com/blog/partial-prerendering-with-next-js-creating-a-new-default-rendering-model), bringing together the best of static site generation and dynamic delivery.
