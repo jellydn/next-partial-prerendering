@@ -1,4 +1,4 @@
-## Next.js Partial Prerendering
+<h1 align="center">Welcome to next-partial-prerendering 👋</h1>
 
 This is a demo of [Next.js](https://nextjs.org) using [Partial Prerendering](https://nextjs.org/docs/app/api-reference/next-config-js/partial-prerendering).
 
@@ -21,3 +21,14 @@ experimental: {
 ```
 
 2. Using `<Suspense />` to wrap Dynamic content.
+
+## References
+
+- [Learn Next.js: Partial Prerendering](https://nextjs.org/learn/dashboard-app/partial-prerendering)
+- [Learn Next.js: Streaming](https://nextjs.org/learn/dashboard-app/streaming)
+- [Building towards a new default rendering model for web applications](https://vercel.com/blog/partial-prerendering-with-next-js-creating-a-new-default-rendering-model)
+- [Difference between partial rendering(PPR) and the current streaming suspense?](https://github.com/vercel/next.js/discussions/58322)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
